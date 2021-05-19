@@ -1,0 +1,90 @@
+body{
+  font-family: Arial, Helvetica , sans-serif;
+  margin: 0;
+  font-size: 13px;
+}
+
+.navbar{
+   display: inline-block;
+   margin-left: 1275px;
+
+}
+
+.navbar li{
+  display: inline-block;
+  padding-right: 13px;
+}
+
+.navbar ul{
+  margin: 6px;
+}
+
+.a{
+   border-radius: 50%;
+   width: 30px;
+   height: 30px;
+}
+
+.c{
+  margin-left: 632px;
+  margin-top: 110px;
+  width: 272px;
+  height: 92px;
+}
+
+.search{
+    margin-left: 487px;
+    width: 10px;
+    padding-top: 30px;
+}
+
+.search input{
+  width: 540px;
+  height: 40px;
+  border: none;
+}
+
+.button{
+    margin-left: 612px;
+    padding-top: 20px;
+
+}
+
+.d{
+  margin-right: 12px;
+  width: 150px;
+  height: 36px;
+  color: #3c4043;
+  background-color: #f8f9fa;
+  border: none;
+  font-size: 14px;
+  border-radius: 4px;
+  margin: 11px 4px;
+  text-align: center;
+  padding: 0 16px;
+}
+
+.language{
+  margin-left: 500px;
+  margin-top: 30px;
+}
+
+.language a{
+  text-decoration: none;
+  padding-right: 4.5px;
+}
+
+.language a:hover{
+  text-decoration: underline;
+}
+
+.search{
+  width: 580px;
+  border: 1px solid black;
+  border-radius: 40px;
+  height: 30px;
+  padding-top: 0.1px;
+  padding-bottom: 9.5px;
+  padding-left: 10px;
+  margin-top: 30px;
+}
